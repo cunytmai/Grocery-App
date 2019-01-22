@@ -2,7 +2,7 @@ Simple React application to help keep track of your grocery item list.
 
 Uses Firebase's Google Authentication login along with reading and writing information to our database.
 
-## This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
